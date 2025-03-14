@@ -2,5 +2,5 @@
 # 2 - Converter a String que o usuário digitou para Double
 # 4 - Solicitar ao usuário para digitar a altura
 # 5 - Converter a String que o usuário digitou para Double
-# 3 - Fazer o calculo do IMC, mutiplicando a altura com ela mesma e dividindo pelo peso
+# 3 - Fazer o calculo do IMC, multiplicando a altura com ela mesma e dividindo pelo peso
 # 4 - Exibir na tela o resultado do cálculo do IMC
