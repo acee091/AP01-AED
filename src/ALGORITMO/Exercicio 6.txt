@@ -1,0 +1,8 @@
+# 1 - Solicitar ao usuário para digitar o valor de A.
+# 2 - Converter a String que o usuário digitou para Double
+# 1 - Solicitar ao usuário para digitar o valor de B.
+# 2 - Converter a String que o usuário digitou para Double
+# 1 - Solicitar ao usuário para digitar o valor de C.
+# 2 - Converter a String que o usuário digitou para Double
+# 5 - Realizar o calculo do delta.
+# 6 - Exibir na tela o resultado do delta.

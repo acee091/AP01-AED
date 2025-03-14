@@ -1,0 +1,5 @@
+# 1 - Solicitar ao usuário para digitar o valor
+# 2 - Converter a String que o usuário digitou para Double
+# 4 - Realizar o calculo do valor ao quadrado, multiplcar o valor por ele mesmo.
+# 5 - Realizar o calculo do valor ao cubo, multiplcar o valor por ele mesmo três vezes.
+# 6 - Exibir na tela o resultado do cálculo ao cubo e ao quadrado.

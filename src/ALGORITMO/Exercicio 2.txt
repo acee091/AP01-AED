@@ -1,0 +1,4 @@
+# 1 - Solicitar ao usuário para digitar a temperatura em Celsius
+# 2 - Converter a String que o usuário digitou para Double
+# 3 - Fazer o calculo da conversão de Celsius para Fahrenheit 
+# 4 - Exibir na tela a temperatura convertida em Fahrenheit

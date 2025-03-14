@@ -1,0 +1,6 @@
+# 1 - Solicitar ao usuário para digitar a base do triângulo
+# 2 - Converter a String que o usuário digitou para Double
+# 3 - Solicitar ao usuário para digitar a altura do triângulo
+# 4 - Converter a String que o usuário digitou para Double
+# 5 - Realizar o calculo da área, fazendo a base vezes a altura e dividir por 2.
+# 6 - Exibir na tela o resultado da área do triângulo.
